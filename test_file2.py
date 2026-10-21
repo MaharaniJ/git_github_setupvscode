@@ -1,5 +1,5 @@
-def greet():
+def greet1():
   print("Hello World")
 
-if __name__ == "__main__"
-greet()   
+if __name__ == "__main__":
+   greet1()   
