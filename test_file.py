@@ -1,6 +1,7 @@
+# Define a function to greet
 def greet():
-  print("Hello World")
+    print("Hello World")
 
-  
-  if __name__ == "__main__":
-greet()
+# This block runs only when the script is executed directly
+if __name__ == "__main__":
+    greet()
